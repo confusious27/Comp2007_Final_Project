@@ -17,11 +17,11 @@ Determined to leave the island, you enter the house.
 + `W` `A` `S` `D` - to move
 + `SpaceBar` to interact
 
-This is the link to the [itch.io page] (https://0chamem0.itch.io/forgotten-shores).
+This is the link to the [itch.io page](https://0chamem0.itch.io/forgotten-shores).
 
 
 ## Credits
 + Sound Effects from Pixabay
-+ Video by Mindaugas Volkis from [Vecteezy](<a href="https://www.vecteezy.com/free-videos/calm">Calm Stock Videos by Vecteezy</a>)
++ Video by Mindaugas Volkis from [Vecteezy]("https://www.vecteezy.com/free-videos/calm")
 + 3D models from Unity Asset Store, SketchFab & me
 + Textures from PolyHaven
