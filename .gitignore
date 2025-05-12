@@ -74,15 +74,15 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# .gitignore for Unity
+# Unity generated folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-MemoryCaptures/
-*.csproj
-*.unitypackage
+[Pp]ackageCache/
+[Uu]serSettings/
+
+# Media files
 *.mp4
-*.blend
