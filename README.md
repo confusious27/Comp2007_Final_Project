@@ -17,7 +17,7 @@ Determined to leave the island, you enter the house.
 + `W` `A` `S` `D` - to move
 + `SpaceBar` to interact
 
-This is the link to the [code rundown + gameplay] ().
+This is the link to the [itch.io page] (https://0chamem0.itch.io/forgotten-shores).
 
 
 ## Credits
