@@ -18,3 +18,10 @@ Determined to leave the island, you enter the house.
 + `SpaceBar` to interact
 
 This is the link to the [code rundown + gameplay] ().
+
+
+## Credits
++ Sound Effects from Pixabay
++ Video by Mindaugas Volkis from [Vecteezy](<a href="https://www.vecteezy.com/free-videos/calm">Calm Stock Videos by Vecteezy</a>)
++ 3D models from Unity Asset Store, SketchFab & me
++ Textures from PolyHaven
