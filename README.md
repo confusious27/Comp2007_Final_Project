@@ -22,6 +22,6 @@ This is the link to the [itch.io page](https://0chamem0.itch.io/forgotten-shores
 
 ## Credits
 + Sound Effects from Pixabay
-+ Video by Mindaugas Volkis from [Vecteezy](https://www.vecteezy.com/free-videos/calm)
++ Video by Mindaugas Volkis from Vecteezy
 + 3D models from Unity Asset Store, SketchFab & me
 + Textures from PolyHaven
